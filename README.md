@@ -12,7 +12,7 @@ My name is Pavel. I'm a backend developer.
 **[Contact me](#📫-Contact-me)**
 
 📧 Email: l1kaf@yandex.ru
-
+💬 Telegram: l1kaf
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1kaf&layout=compact)
