@@ -10,7 +10,7 @@ I worked as a system administrator for 5 years. Now I am actively engaged in php
 * 🌍  I'm based in Krasnodar
 * 🖥️  See my portfolio at [GitHub](http://github.com/L1kaf)
 * 🧠  I'm learning Laravel framework
-* ⚡  My interesting projects: Brain Games, Difference Calculator, Link-shortening, Page Analyzer
+* ⚡  My interesting projects: [Brain Games](https://github.com/L1kaf/php-project-45), [Difference Calculator](https://github.com/L1kaf/php-project-48), [Link-shortening](https://github.com/L1kaf/php-link-shortening), [Page Analyzer](https://github.com/L1kaf/php-project-9), [Task Manager](https://github.com/L1kaf/php-project-57)
 * 💬 Ask me about PHP
 * ✉️ You can contact me at [l1kaf@yandex.ru](mailto:l1kaf@yandex.ru)
 * 💬 Telegram: l1kaf
